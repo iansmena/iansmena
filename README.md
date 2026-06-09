@@ -29,7 +29,7 @@ Soy estudiante de **Ciencias de la Computación**. Me apasiona resolver problema
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iansmena&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Ian" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iansmena&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Ian" height="160" /> &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iansmena&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="160" />
 </p>
 
