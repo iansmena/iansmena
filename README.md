@@ -1,16 +1,40 @@
-## Hi there 👋
+# ¡Hola! Soy Ian Sebastian 👋 (iansmena)
 
-<!--
-**iansmena/iansmena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Estudiante%20de%20Ciencias%20de%20la%20Computación-blue?style=for-the-badge" alt="Status">
+</p>
 
-Here are some ideas to get you started:
+Soy estudiante de **Ciencias de la Computación**. Me apasiona resolver problemas complejos a través del código, diseñar lógica sólida y estructurar bases de datos eficientes. Actualmente enfocado en fortalecer mis bases académicas y adoptar buenas prácticas de control de versiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### **Lenguajes Fuertes**
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+</p>
+
+#### **Aprendiendo y Expandiendo Horizontes**
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📈 Mis Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iansmena&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Ian" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iansmena&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="160" />
+</p>
+
+---
+
+### 🚀 Sobre mis proyectos...
+*“El código se puede perder, pero el conocimiento se queda”.* 
+Tras un inconveniente con mis respaldos locales, decidí adoptar **GitHub** como mi centro de control definitivo. Actualmente estoy reestructurando y subiendo mis prácticas de clase, proyectos de algoritmos en C++/Java y mis nuevos desarrollos web/Python. ¡Poco a poco verás este espacio llenarse de soluciones eficientes!
