@@ -26,18 +26,6 @@ Soy estudiante de **Ciencias de la Computación**. Me apasiona resolver problema
 
 ---
 
-### 🏆 Mis Logros en GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iansmena&theme=tokyonight&column=4" alt="Mis Trofeos de GitHub" />
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=iansmena&color=blue&style=flat-square&label=Vistas+del+Perfil" alt="Contador de visitas" />
-</p>
-
----
-
 ### 🚀 Sobre mis proyectos...
 *“El código se puede perder, pero el conocimiento se queda”.* 
 Tras un inconveniente con mis respaldos locales, decidí adoptar **GitHub** como mi centro de control definitivo. Actualmente estoy reestructurando y subiendo mis prácticas de clase, proyectos de algoritmos en C++/Java y mis nuevos desarrollos web/Python. ¡Poco a poco verás este espacio llenarse de soluciones eficientes!
