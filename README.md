@@ -62,7 +62,4 @@ Notebooks con los ejercicios de la materia de IA.
 
 <!-- Badges de shields.io: el color va en hexadecimal después del nombre (ej. 0A66C2). -->
 [![Correo](https://img.shields.io/badge/-ianmena.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ianmena.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([LINK A TU LINKEDIN])
-
-<!-- Instagram: déjalo solo si lo usas como perfil profesional; si no, borra esta línea. -->
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([LINK A TU INSTAGRAM]) -->
+<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([LINK A TU LINKEDIN])-->
