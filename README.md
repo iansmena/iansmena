@@ -1,24 +1,68 @@
-# 💫 About Me:
-Computer Science Engineering student at Universidad Politécnica Salesiana (5th semester), passionate about software development, advanced database management, and building interactive web solutions. Currently focused on strengthening my academic and technical foundations through innovative projects, robust information systems design, and AI-driven tool integration. Open to collaborating on open-source initiatives, backend development, and data optimization, while continuously learning new architectures and technologies to deliver high-impact software.
+<!--
+  README de perfil de iansmena
+  Va en el repositorio iansmena/iansmena (rama main), reemplazando el README actual.
+  Todo lo que está entre <!- - y - -> son comentarios: GitHub no los muestra.
+  Los textos entre [CORCHETES] son datos que debes completar tú.
+-->
 
+<!--
+  BANNER (opcional, pero es lo que más cambia el aspecto)
+  1. Diséñalo en Figma a 1280 x 320 px (proporción 4:1, se ve bien en móvil y escritorio).
+  2. Expórtalo como PNG y súbelo a este mismo repo en la carpeta assets/.
+  3. Quita el comentario de la línea <img> de abajo.
+-->
+<!-- <img src="assets/banner.png" alt="Ian Sebastián Mena - Desarrollo de software y datos" width="100%"> -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ians.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ian-sebastian-mena-8921153a5) 
+## Hola, soy Ian Sebastián Mena
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=iansmena&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=iansmena&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=iansmena&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Estudiante de Ingeniería en Ciencias de la Computación en la Universidad Politécnica Salesiana (Quito, Ecuador).
+Me interesa el desarrollo de software, las bases de datos y construir proyectos que se puedan usar de verdad.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iansmena&theme=date_night&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iansmena&limit=5&theme=date_night&combine_all_yearly_contributions=true)
+<!-- Mantén esta lista corta: 3 puntos que un reclutador lea en 5 segundos. -->
+- Cursando 6.º semestre, buscando **prácticas preprofesionales** en desarrollo de software y datos.
+- Ahora mismo aprendiendo: sistemas distribuidos, inteligencia artificial y análisis de datos con NumPy.
+- Abierto a colaborar en proyectos open source y de backend.
 
 ---
-[![](https://komarev.com/ghpvc/?username=iansmena&icon=9&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Proyectos destacados
+
+<!--
+  Esta es la sección que hace fuerte el perfil de referencia: proyectos reales con
+  descripción, tecnologías y enlaces. Pon aquí tus 2-4 mejores proyectos, el más fuerte primero.
+-->
+
+**IQube** — Cubo inteligente para estudiar con el método Pomodoro
+Cubo de acrílico con ESP32 y sensores, conectado a una plataforma web con cuentas de usuario personalizables.
+Segundo lugar y mención honorífica en el concurso de proyectos de la carrera.
+`ESP32` `Arduino` `[TECNOLOGÍAS DE LA WEB]` · [Código]([LINK AL REPO]) · [Demo]([LINK A VIDEO O WEB, si tienes])
+
+**Pong distribuido** — Juego multijugador en red
+Arquitectura cliente-servidor con sockets en Python.
+`Python` `Sockets` · [Código]([LINK AL REPO])
+
+**Prácticas de Inteligencia Artificial**
+Notebooks con los ejercicios de la materia de IA.
+`Python` `Jupyter` `NumPy` · [Código](https://github.com/iansmena/Inteligencia-Artificial---Practicas)
+
+---
+
+### Tecnologías y herramientas
+
+<!--
+  skillicons.dev genera la fila de iconos. Para añadir o quitar uno, edita la lista después de "i=".
+  Pon solo lo que podrías defender en una entrevista.
+  Si un icono no se ve en la vista previa, ese nombre no existe en skillicons: bórralo.
+-->
+[![Tecnologías](https://skillicons.dev/icons?i=py,cpp,java,html,css,postgres,qt,arduino,git,github,postman,vscode,figma&perline=13)](https://skillicons.dev)
+
+---
+
+### Contacto
+
+<!-- Badges de shields.io: el color va en hexadecimal después del nombre (ej. 0A66C2). -->
+[![Correo](https://img.shields.io/badge/-ianmena.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ianmena.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([LINK A TU LINKEDIN])
+
+<!-- Instagram: déjalo solo si lo usas como perfil profesional; si no, borra esta línea. -->
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([LINK A TU INSTAGRAM]) -->
